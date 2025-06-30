@@ -1,5 +1,12 @@
-venv/
-.venv/
+# Python artifacts
 __pycache__/
-*.pyc
-asl_model/trained_models/
+*.py[cod]
+*.sqlite3
+*.pkl
+# your virtual-env
+.venv/
+venv/
+# IDE folders
+.idea/
+*.iml
+.DS_Store
