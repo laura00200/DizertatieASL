@@ -1,0 +1,5 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+asl_model/trained_models/
